@@ -72,6 +72,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/about.hellocu.be"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,6 +95,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSf7ZFt2Y4Cu0P8pJrHKnTRZfy8rMkxmshujI5VkDWAGmknAfg\/viewform?embedded=true"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
