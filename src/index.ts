@@ -10,7 +10,7 @@ let currentPopup: any = undefined;
 WA.room.onEnterLayer('clockZone').subscribe(() => {
     const today = new Date();
     const time = today.getHours() + ":" + today.getMinutes();
-    currentPopup = WA.ui.openPopup("clockPopup","It's " + time,[]);
+    currentPopup = WA.ui.openPopup("clockPopup","현재 시각은 " + time+"입니다.",[]);
 })
 
 WA.room.onLeaveLayer('clockZone').subscribe(closePopUp)
