@@ -256,7 +256,7 @@
                      "fontfamily":"Noto Sans CJK JP Black",
                      "halign":"center",
                      "pixelsize":21,
-                     "text":"\ub3d9\uc544\ub9ac \uc18c\uac1c",
+                     "text":"CUBE \uc18c\uac1c",
                      "valign":"center",
                      "wrap":true
                     },
@@ -265,6 +265,28 @@
                  "width":123.3125,
                  "x":422.34375,
                  "y":264.5
+                }, 
+                {
+                 "height":51,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans CJK JP Black",
+                     "halign":"center",
+                     "pixelsize":21,
+                     "text":"\u2196\ufe0f CUBE \uc9c0\uc6d0 \uc2e0\uccad",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":177.3125,
+                 "x":289.34375,
+                 "y":320.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -296,7 +318,7 @@
          "y":0
         }],
  "nextlayerid":71,
- "nextobjectid":31,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
