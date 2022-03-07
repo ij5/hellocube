@@ -476,7 +476,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/cdn.jsdelivr.net\/gh\/ij5\/hellocube@gh-pages\/script.js"
+         "value":"https:\/\/cdn.jsdelivr.net\/npm\/workadventure-map-starter-kit@2.0.0\/dist\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.2",
