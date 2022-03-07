@@ -46,3 +46,5 @@ makePopup('drawerZone', 'drawerPopup', "서랍장이다. 안에 무엇이 있을
 ]);
 makePopup('windowZone', 'windowPopup', '창밖은 평화롭다.', []);
 makePopup('fireZone', 'firePopup', '불이 나면 사용할 수 있도록 위치를 기억해두자.', []);
+makePopup('room1Zone', 'room1Popup', '강당 1', []);
+makePopup('room2Zone', 'room2Popup', '강당 2', []);
