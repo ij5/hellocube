@@ -38,8 +38,8 @@ function makeTimeoutPopup(layer: string, area: string, message: string, timeout:
     let popup: Popup;
     WA.room.onEnterLayer(layer).subscribe(()=>{
         popup = WA.ui.openPopup(area, message, []);
+        setTimeout(()=>popup.close(), timeout);
     });
-    setTimeout(()=>popup.close(), timeout);
 }
 
 makePopup('drawerZone', 'drawerPopup', "서랍장이다. 안에 무엇이 있을까?", [
